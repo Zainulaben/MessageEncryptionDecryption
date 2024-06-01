@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageEncryptionDecryption", "MessageEncryptionDecryption\MessageEncryptionDecryption.vcxproj", "{D652C365-5911-4A47-A94E-52B87086ECAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Debug|x64.ActiveCfg = Debug|x64
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Debug|x64.Build.0 = Debug|x64
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Debug|x86.Build.0 = Debug|Win32
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Release|x64.ActiveCfg = Release|x64
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Release|x64.Build.0 = Release|x64
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Release|x86.ActiveCfg = Release|Win32
+		{D652C365-5911-4A47-A94E-52B87086ECAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D44B19EA-E633-4B28-B26F-0D0DD3AD5A7E}
+	EndGlobalSection
+EndGlobal
